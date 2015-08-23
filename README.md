@@ -1,4 +1,4 @@
-# PrimosCirulares
+﻿# PrimosCirulares
 Aplicación JAVA que permite calcular los Primos Circulares que hay por debajo del número 1 Millón.
 
 PARA EJECUTAR EL PROGRAMA
@@ -17,4 +17,4 @@ Si colocó el Directorio PrimoCir en el disco "C:" deberá ejecutar lo siguiente
 java -jar "C:\PrimoCir\dist\PrimoCir.jar"
 
 
-REQUISITOS: debe tener Java instalado para ejecutar el Programa.
+REQUISITOS: debe tener Java (JRE) instalado para ejecutar el Programa.
